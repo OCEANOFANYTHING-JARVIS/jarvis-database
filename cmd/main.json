@@ -1,0 +1,5 @@
+{
+    "list-all-top-level-folder-in-txt-file": "dir /A:D /B > Top_Level_FolderList.txt",
+    "list-all-top-level-files-in-txt-file": "dir /B > FolderList.txt",
+    "": ""
+}
