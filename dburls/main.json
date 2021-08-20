@@ -1,12 +1,11 @@
 {
     "databaseUrls" : {
-        "main" : "https://oceanofanythingofficial.github.io/jarvis-database/main/main.json",
-        "task" : "https://oceanofanythingofficial.github.io/jarvis-database/task/main.json",
-        "cmd" : "https://oceanofanythingofficial.github.io/jarvis-database/cmd/main.json",
-        "packages" : "https://oceanofanythingofficial.github.io/jarvis-database/packages/main.json",
-        "fonts" : "https://oceanofanythingofficial.github.io/jarvis-database/fonts/fonts.json",
-        "talk" : "https://oceanofanythingofficial.github.io/jarvis-database/talk/main.json",
-        "user-folders" : "https://oceanofanythingofficial.github.io/jarvis-database/talk/main.json",
-        "": ""
+        "main" : "https://oceanofanything-jarvis.github.io/jarvis-database/main/main.json",
+        "task" : "https://oceanofanything-jarvis.github.io/jarvis-database/task/main.json",
+        "cmd" : "https://oceanofanything-jarvis.github.io/jarvis-database/cmd/main.json",
+        "packages" : "https://oceanofanything-jarvis.github.io/jarvis-database/packages/main.json",
+        "fonts" : "https://oceanofanything-jarvis.github.io/jarvis-database/fonts/fonts.json",
+        "talk" : "https://oceanofanything-jarvis.github.io/jarvis-database/talk/main.json",
+        "user-folders" : "https://oceanofanything-jarvis.github.io/jarvis-database/talk/main.json"
     }
 }
